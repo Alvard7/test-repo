@@ -1,0 +1,19 @@
+Test Case- Exercises
+
+- Verify that "Exercises" part contains Muscle Group section.
+- Check that there is "All Exercise" section which includes "Abdominals", "Arms", "Back", 
+  "Chest", "Shoulders", "Legs", "Cardio", "Stretch" parts. 
+- Verify when hovering with mouse on one of the existing sections the words and the right border becoming orange colour.
+- Verify that the subsections under one of the sections are opened after clikcing on that section.
+- Verify that each of the subsections conatins an informative description. 
+- Verify that there is a Search bar above Subsection 
+_ When entering the keywords in Search the matched examples should be displayed. 
+-Verify that after clicking on search "ALL" word which is on Search desapeared
+-Verify that the Subsection part has a scrollbar. Make sure that scrollbar works correctly (scrolling down and up)
+ -Check that you can use the arrow keys to scroll up and down.
+
+- Verify that there are "New Execiser" and "Edit" buttons on the right side.
+- Verify that "New Execiser"  let us create a new Exerciser. 
+- Check if there is a field for Exerciser's name and it can contain words, symbol, numbers etc. 
+- Verify that there is a section on the right side which 
+  let us to choose a subcaterory and include new created execiser into it.
